@@ -22,7 +22,6 @@ Actors: Farmer, Distributor, Retailer, Consumer
 
 States: Harvested, Processed, Packed, ForSale, Sold, Shipped, Received, Purchased  
 
-![Barberry-Afin-Village](https://user-images.githubusercontent.com/89708221/136409925-4a88ed42-cea6-4451-beb7-affc99e356ed.png)
 
 ## UML Diagrams
 
