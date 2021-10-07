@@ -11,7 +11,7 @@ One of the traditional and delicious Iranian dishes is called barberry pilaf. Th
 
 ### Afin Barberry Farm 
 
-![Afin Barberry Farm](images\Barberry-Afin-Village.png)
+![Barberry-Afin-Village](https://user-images.githubusercontent.com/89708221/136410166-8965523e-4812-43e7-91a3-c1aa1e58c43b.png)
 
 
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a farmer and consumer for the barberry crop. The user story is similar to any commonly used supply chain process.
@@ -22,11 +22,7 @@ Actors: Farmer, Distributor, Retailer, Consumer
 
 States: Harvested, Processed, Packed, ForSale, Sold, Shipped, Received, Purchased  
 
-
-### Afin Barberry Farm 
-
-![Afin Barberry Farm](images\Barberry-Afin-Village.png)
-
+![Barberry-Afin-Village](https://user-images.githubusercontent.com/89708221/136409925-4a88ed42-cea6-4451-beb7-affc99e356ed.png)
 
 ## UML Diagrams
 
