@@ -11,6 +11,6 @@ This requirement has already been provided in the starter code that this project
 
 ## Defining and implementing inheritance
 The first requirement of the second step of this project focuses on the inheritance structure of the smart contracts. This has been established like this:
-•	The contracts FarmerRole, DistributorRole, RetailerRole, and ConsumerRole, import the library Roles. In this way, they can access functionality provided by (they inherit from) Roles.
-•	The contract SupplyChain inherits from FarmerRole, DistributorRole, RetailerRole, and ConsumerRole. That means that all functionality within the Role contracts can be used within (is inherited by) SupplyChain.
-•	The contract SupplyChain inherits from Ownable. In other words, all functionality within the Ownable contract can be used within (is inherited by) SupplyChain.
+The contracts FarmerRole, DistributorRole, RetailerRole, and ConsumerRole, import the library Roles. In this way, they can access functionality provided by (they inherit from) Roles.
+The contract SupplyChain inherits from FarmerRole, DistributorRole, RetailerRole, and ConsumerRole. That means that all functionality within the Role contracts can be used within (is inherited by) SupplyChain.
+The contract SupplyChain inherits from Ownable. In other words, all functionality within the Ownable contract can be used within (is inherited by) SupplyChain.
